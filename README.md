@@ -10,4 +10,4 @@ Mastermind requires software capable of running a Java program such as an IDE.
 
 ## Usage
 
-Compile and run the Java program. Once done, windows will pop up with the game and instructions to guide the user through the game.
+After downloading the MasterMind folder, compile and run the Java program. Once done, windows will pop up with the game and instructions to guide the user through the game.
