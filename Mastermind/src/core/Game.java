@@ -11,10 +11,6 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import constants.Constants;
 
-/**
- *
- * @author kwhiting
- */
 public class Game implements IGame
 {
     private int attempt;

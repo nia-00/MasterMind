@@ -9,10 +9,6 @@ import java.awt.Color;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-/**
- *
- * @author kwhiting
- */
 public class Constants 
 {
     // peg color options

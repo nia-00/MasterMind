@@ -13,10 +13,6 @@ import java.util.List;
 import java.util.Random;
 import java.util.Set;
 
-/**
- *
- * @author kwhiting
- */
 public class Codemaker implements ICodemaker
 {
     // member variables

@@ -10,10 +10,6 @@ import java.util.ArrayList;
 import constants.Constants;
 import java.util.Scanner;
 
-/**
- *
- * @author kwhiting
- */
 public class Codebreaker implements ICodebreaker
 {
 

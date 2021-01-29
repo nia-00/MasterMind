@@ -8,10 +8,6 @@ package core;
 import java.awt.Color;
 import java.util.ArrayList;
 
-/**
- *
- * @author kwhiting
- */
 public interface ICodebreaker 
 {
     public void checkCode(ArrayList<Color> attempt);

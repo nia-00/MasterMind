@@ -1,5 +1,5 @@
 /*
- * Karin Whiting
+ * Estefania Sanchez
  * COP 3330 Object Oriented Programming
  * University of Central Florida
  */
@@ -9,10 +9,6 @@ import core.Game;
 import javax.swing.JOptionPane;
 import userinterface.MasterMindUi;
 
-/**
- *
- * @author kwhiting
- */
 public class MasterMind 
 {
 

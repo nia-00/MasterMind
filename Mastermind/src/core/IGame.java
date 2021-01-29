@@ -5,10 +5,6 @@
  */
 package core;
 
-/**
- *
- * @author kwhiting
- */
 public interface IGame 
 {
     public void play();
